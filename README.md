@@ -13,26 +13,19 @@ Here's your list rewritten in a clean, formatted style — great for documentati
 
 ---
 
-### 🌟 Core Features
-
+### 🌟 [Core Features](https://docs.astral.sh/uv/)
 * 🚀 **All-in-One Tooling**
   Replaces `pip`, `pip-tools`, `pipx`, `poetry`, `pyenv`, `twine`, `virtualenv`, and more — with a single binary.
-
 * ⚡ **Blazing Fast**
   Up to **10–100x faster** than `pip`.
-
 * 🗂️ **Project Management**
   Supports dependency resolution, universal lockfiles, and reproducible builds.
-
 * ❇️ **Script Execution with Metadata**
   Easily run Python scripts with inline dependency declarations.
-
 * 🐍 **Python Version Management**
   Installs and manages multiple Python versions, similar to `pyenv`.
-
 * 🛠️ **Tool Runner**
   Run CLI tools published as Python packages without global installs.
-
 * 🔩 **Pip-Compatible CLI**
   Familiar commands, with a huge performance boost.
 * 🏢 **Workspace Support**
@@ -46,8 +39,17 @@ Here's your list rewritten in a clean, formatted style — great for documentati
 ---
 
 ### 🔧 Backed by the Team Behind Ruff
-
 Developed by **Astral**, the creators of the popular Python linter **Ruff** — focused on speed and developer experience.
+
+---
+
+### [installation](https://docs.astral.sh/uv/getting-started/installation/#pypi)
+
+```bash
+pip install uv
+```
+
+
 
 
 
